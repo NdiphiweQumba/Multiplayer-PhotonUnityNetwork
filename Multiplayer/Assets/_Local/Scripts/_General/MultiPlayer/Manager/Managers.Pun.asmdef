@@ -1,0 +1,23 @@
+{
+    "name": "Managers.Pun",
+    "rootNamespace": "HammerRun.Pun.Managers",
+    "references": [
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:35cc2632df2760540bcc67312740008b",
+        "GUID:a738238285a7a8246af046cbf977522f",
+        "GUID:7024f760fc566cf45a16d2c838e22b2d",
+        "GUID:06dafbbe6b7b3a84f84213f47aabe7f0",
+        "GUID:4025d00f1ce60da4ea2d0830acf5ebfb",
+        "GUID:1c49c18721e70134cb1c6531ccac16b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
